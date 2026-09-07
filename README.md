@@ -36,7 +36,7 @@ Ensure you have R and RStudio installed on your machine. You will need to instal
 install.packages(c("shiny", "quantmod", "PerformanceAnalytics", "ggplot2", "DT"))
 ## Installation & Execution
 1. Clone the repository:
-git clone https://github.com/your-username/portfolio-optimization-shiny.git
+https://github.com/aryansarin/Portfolio_optimization_using_Monte_Carlo_Simulations.git
 cd portfolio-optimization-shiny
 
 2. Open the project directory in RStudio and open app.R.
